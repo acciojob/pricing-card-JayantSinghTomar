@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+#main_con_1{
+	background-color:lightyellow;
+	width:400px;
+	height:500px;
+	border-radius: 10px 
+/* 	display:flex-box; */
+	
+}
+
+img{
+	width:290px;
+	height:210px;
+	margin-left:50px;
+	margin-block-start:50px
+}
+
+h1{
+	text-align:center;
+}
+p{
+	text-align:center;
+}
+button{
+	background:orangered;
+	color: white;
+	margin-left:160px;
+	border-radius:6px
+	
+	
+	
+}
